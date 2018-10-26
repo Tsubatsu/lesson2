@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pom.xml" line="28" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0984d17-a79a-47a1-b295-e6f1abc8dce2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../lesson1/src/test/java/homework/TestRest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Arquillian_TestNG_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Arquillian_TestNG_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KPTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KPTest2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__com_codeborne_selenide_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_1_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/SelenideSBOF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/SelenideSBOF.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511960299066.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511960299066.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511962947452.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963016257.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963016257.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963240128.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963240128.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963545742.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511963545742.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967543602.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967543602.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967615775.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967615775.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967687169.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1511967687169.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025451176.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025451176.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025573864.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512025573864.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512026036587.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512026036587.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028527379.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028527379.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028956775.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512028956775.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512029022675.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512029022675.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038106911.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038106911.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038285624.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038285624.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038907621.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512038907621.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040156155.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040156155.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040273993.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040273993.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040357458.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512040357458.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512126080554.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512126080554.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127091480.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127091480.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127202499.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127202499.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127222290.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127222290.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127373739.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127373739.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127514430.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512127514430.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512128687062.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512128687062.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512131367398.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512131367398.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132036804.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132036804.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132452283.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132452283.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132518719.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132518719.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132662713.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/build/reports/tests/1512132662713.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/actionsCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/actionsCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/consts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/consts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/dataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/dataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/elementsCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/elementsCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/linksKP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/linksKP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/loginCreds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/main/java/configs/loginCreds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/CREDS/CRED2064.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/CREDS/CRED2064.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/sandbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/setCreditType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/src/test/java/setCreditType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/actionsCommon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/actionsCommon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/consts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/consts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/dataGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/dataGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon$Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon$Input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/elementsCommon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/linksKP.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/linksKP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds$roleCreds.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds$roleCreds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/classes/configs/loginCreds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/CREDS/CRED2064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/sandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/sandbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/setCreditType.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1150960991">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="392" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="392" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1735680297">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="559" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="559" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/rest/MockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-238">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/rest/HomeWorkTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.0.0/rest-assured-3.0.0.jar!/io/restassured/http/ContentType.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/org/apache/http/HttpStatus.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>equalTo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/rest/MockTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/rest/HomeWorkTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lesson2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lesson2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540561368817" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HomeWorkTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.HomeWorkTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.HomeWorkTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.HomeWorkTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.HomeWorkTest" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorkTest.homeWorkTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rest" />
+      <option name="MAIN_CLASS_NAME" value="rest.HomeWorkTest" />
+      <option name="METHOD_NAME" value="homeWorkTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.HomeWorkTest.homeWorkTest" />
+      <item itemvalue="TestNG.HomeWorkTest (2)" />
+      <item itemvalue="TestNG.HomeWorkTest (3)" />
+      <item itemvalue="TestNG.HomeWorkTest (4)" />
+      <item itemvalue="TestNG.HomeWorkTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomeWorkTest" />
+        <item itemvalue="TestNG.HomeWorkTest.homeWorkTest" />
+        <item itemvalue="TestNG.HomeWorkTest (4)" />
+        <item itemvalue="TestNG.HomeWorkTest (3)" />
+        <item itemvalue="TestNG.HomeWorkTest (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0984d17-a79a-47a1-b295-e6f1abc8dce2" name="Default" comment="" />
+      <created>1535635031823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535635031823</updated>
+      <workItem from="1536580513375" duration="712000" />
+      <workItem from="1536667154332" duration="418000" />
+      <workItem from="1536739751255" duration="264000" />
+      <workItem from="1536740409219" duration="3480000" />
+      <workItem from="1540547121568" duration="5130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 13m 08s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 13m 24s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 15m 06s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 15m 14s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 15m 27s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 16m 03s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 35m 02s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_(3) - 2018.10.26 at 16h 35m 13s.xml">
+      <configuration name="HomeWorkTest (3)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 38m 10s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 38m 34s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10004000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2763441" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39809927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32629356" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.14731182" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/org/apache/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/3.0.0/rest-assured-3.0.0.jar!/io/restassured/http/ContentType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/rest/MockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/rest/HomeWorkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
