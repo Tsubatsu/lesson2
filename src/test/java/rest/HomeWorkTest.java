@@ -46,6 +46,7 @@ public class HomeWorkTest {
                         "        \"email\": \"Smith\"\n" + // look above
                         "    }")).
                 willReturn(aResponse().
+                        withHeader("Content-type", "application/json").
                         withBody("{\n" +
                                 "\t\"result\": true,\n" + //check it
                                 "\t\"description\": \"We have it!\"\n" + //check it
