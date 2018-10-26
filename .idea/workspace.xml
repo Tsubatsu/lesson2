@@ -144,6 +144,8 @@
       <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/CREDS/CRED2064.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/sandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/sandbox.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SelenideSBOF/target/test-classes/setCreditType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/rest/HomeWorkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rest/HomeWorkTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -195,12 +197,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="559" />
+          <entry key="java" value="568" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="559" />
+          <entry key="JAVA" value="568" />
         </counts>
       </usages-collector>
     </session>
@@ -228,8 +230,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/rest/HomeWorkTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+            <state relative-caret-position="128">
+              <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -263,7 +265,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -438,7 +440,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540561368817" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540561653942" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
@@ -454,7 +456,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HomeWorkTest">
+  <component name="RunManager" selected="TestNG.HomeWorkTest.homeWorkTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -586,8 +588,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomeWorkTest" />
         <item itemvalue="TestNG.HomeWorkTest.homeWorkTest" />
+        <item itemvalue="TestNG.HomeWorkTest" />
         <item itemvalue="TestNG.HomeWorkTest (4)" />
         <item itemvalue="TestNG.HomeWorkTest (3)" />
         <item itemvalue="TestNG.HomeWorkTest (2)" />
@@ -608,20 +610,11 @@
       <workItem from="1536667154332" duration="418000" />
       <workItem from="1536739751255" duration="264000" />
       <workItem from="1536740409219" duration="3480000" />
-      <workItem from="1540547121568" duration="5130000" />
+      <workItem from="1540547121568" duration="5600000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 13m 08s.xml">
-      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 13m 24s.xml">
-      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 15m 06s.xml">
-      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 15m 14s.xml">
       <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
     </history-entry>
@@ -643,9 +636,18 @@
     <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 38m 34s.xml">
       <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomeWorkTest_(4) - 2018.10.26 at 16h 39m 46s.xml">
+      <configuration name="HomeWorkTest (4)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest_homeWorkTest - 2018.10.26 at 16h 41m 07s.xml">
+      <configuration name="HomeWorkTest.homeWorkTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomeWorkTest - 2018.10.26 at 16h 42m 51s.xml">
+      <configuration name="HomeWorkTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10004000" />
+    <option name="totallyTimeSpent" value="10474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -720,8 +722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/rest/HomeWorkTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        <state relative-caret-position="128">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

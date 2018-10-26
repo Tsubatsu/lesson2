@@ -46,7 +46,6 @@ public class HomeWorkTest {
                         "        \"email\": \"Smith\"\n" + // look above
                         "    }")).
                 willReturn(aResponse().
-                        //withHeader("Content-Type", "application/json").
                         withBody("{\n" +
                                 "\t\"result\": true,\n" + //check it
                                 "\t\"description\": \"We have it!\"\n" + //check it
@@ -65,10 +64,8 @@ public class HomeWorkTest {
     @Test
     public void homeWorkTest()
     {
-
         given().basePath("/hometask")
                 .cookie("auth-token", "SDJDJFFJKasd12312asdasdsa")
-                //.accept(ContentType.JSON)
                 .header("Accept", "json")
                 .body(" {" +
                 "        \"id\": 1," +
@@ -80,15 +77,6 @@ public class HomeWorkTest {
                 .statusCode(201)
                 .body("result", equalTo(true),
                         "description", equalTo("We have it!"));
-
-        //you should write the correct url
-        //you should set the right cookie
-        //you should add the right headers
-        //
-        //check a status code
-        //check a body
-
-        //your code
     }
 
 }
